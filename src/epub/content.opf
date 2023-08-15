@@ -40,8 +40,13 @@
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>LANG</dc:language>
-		<dc:source>PG_URL</dc:source>
-		<dc:source>IA_URL</dc:source>
+		<!--The Weary Blues-->
+		<dc:source>https://en.wikisource.org/wiki/The_Weary_Blues</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001021002</dc:source>
+		<!--Crisis, 1922-03-->
+		<dc:source>https://archive.org/details/crisis2324dubo</dc:source>
+		<!--Question, The New Moon-->
+		<dc:source>https://poets.org/poet/langston-hughes</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
