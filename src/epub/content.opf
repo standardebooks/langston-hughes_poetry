@@ -49,7 +49,7 @@
 		<!--Crisis-->
 		<!--1922-03, 1922-05-->
 		<dc:source>https://archive.org/details/crisis2324dubo</dc:source>
-		<!--1922-12, 1923-03-->
+		<!--1922-12, 1923-03, 1923-08-->
 		<dc:source>https://archive.org/details/crisis2526dubo</dc:source>
 		<!--New York Amsterdam News-->
 		<!--1923-04-25-->
@@ -60,6 +60,8 @@
 		<!--Question, The New Moon, To a Dead Friend, My Loves, Mother to Son-->
 		<!--Justice, Monotony, Dreams-->
 		<dc:source>https://poets.org/poet/langston-hughes</dc:source>
+		<!--The Last Feast of Belshazzar-->
+		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-poems-published-in-the-crisis-1921-1926</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
