@@ -54,7 +54,11 @@
 		<!--New York Amsterdam News-->
 		<!--1923-04-25-->
 		<dc:source>https://archive.org/details/hughes_ny_amsterdam_1923-04-25</dc:source>
+		<!--World Tomorrow-->
+		<!--1923-05-->
+		<dc:source>https://catalog.hathitrust.org/Record/008956003</dc:source>
 		<!--Question, The New Moon, To a Dead Friend, My Loves, Mother to Son-->
+		<!--Justice, Monotony, Dreams-->
 		<dc:source>https://poets.org/poet/langston-hughes</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
