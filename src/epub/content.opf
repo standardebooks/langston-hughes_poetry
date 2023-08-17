@@ -51,6 +51,9 @@
 		<dc:source>https://archive.org/details/crisis2324dubo</dc:source>
 		<!--1922-12-->
 		<dc:source>https://archive.org/details/crisis2526dubo</dc:source>
+		<!--New York Amsterdam News-->
+		<!--1923-04-25-->
+		<dc:source>https://archive.org/details/hughes_ny_amsterdam_1923-04-25</dc:source>
 		<!--Question, The New Moon, To a Dead Friend, My Loves, Mother to Son-->
 		<dc:source>https://poets.org/poet/langston-hughes</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
