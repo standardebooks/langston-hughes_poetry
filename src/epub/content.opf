@@ -43,9 +43,15 @@
 		<!--The Weary Blues-->
 		<dc:source>https://en.wikisource.org/wiki/The_Weary_Blues</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001021002</dc:source>
-		<!--Crisis: 1922-03, 1922-05-->
+		<!--Fine Clothes to the Jew-->
+		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-fine-clothes-to-the-jew-1927-full-text.1</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/003138045</dc:source>
+		<!--Crisis-->
+		<!--1922-03, 1922-05-->
 		<dc:source>https://archive.org/details/crisis2324dubo</dc:source>
-		<!--Question, The New Moon, To a Dead Friend, My Loves-->
+		<!--1922-12-->
+		<dc:source>https://archive.org/details/crisis2526dubo</dc:source>
+		<!--Question, The New Moon, To a Dead Friend, My Loves, Mother to Son-->
 		<dc:source>https://poets.org/poet/langston-hughes</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
