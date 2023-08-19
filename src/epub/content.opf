@@ -59,9 +59,14 @@
 		<!--World Tomorrow-->
 		<!--1923-05-->
 		<dc:source>https://catalog.hathitrust.org/Record/008956003</dc:source>
+		<!--Messenger-->
+		<!--1924-03-->
+		<dc:source>https://catalog.hathitrust.org/Record/006784879</dc:source>
 		<!--Question, The New Moon, To a Dead Friend, My Loves, Mother to Son-->
 		<!--Justice, Monotony, Dreams, Shadows-->
 		<dc:source>https://poets.org/poet/langston-hughes</dc:source>
+		<!--Grant Park, Gods-->
+		<dc:source>https://www.poetrynook.com/poet/langston-hughes</dc:source>
 		<!--The Last Feast of Belshazzar, My Beloved-->
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-poems-published-in-the-crisis-1921-1926</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
