@@ -51,7 +51,7 @@
 		<dc:source>https://archive.org/details/crisis2324dubo</dc:source>
 		<!--1922-12, 1923-03, 1923-08-->
 		<dc:source>https://archive.org/details/crisis2526dubo</dc:source>
-		<!--1924-03, 1924-04-->
+		<!--1924-03, 1924-04, 1924-05-->
 		<dc:source>https://catalog.hathitrust.org/Record/000502434</dc:source>
 		<!--New York Amsterdam News-->
 		<!--1923-04-25-->
@@ -60,14 +60,14 @@
 		<!--1923-05-->
 		<dc:source>https://catalog.hathitrust.org/Record/008956003</dc:source>
 		<!--Messenger-->
-		<!--1924-03-->
+		<!--1924-03, 1924-05-->
 		<dc:source>https://catalog.hathitrust.org/Record/006784879</dc:source>
 		<!--Question, The New Moon, To a Dead Friend, My Loves, Mother to Son-->
 		<!--Justice, Monotony, Dreams, Shadows-->
 		<dc:source>https://poets.org/poet/langston-hughes</dc:source>
-		<!--Grant Park, Gods-->
+		<!--Grant Park, Gods, Prayer for a Winter Night-->
 		<dc:source>https://www.poetrynook.com/poet/langston-hughes</dc:source>
-		<!--The Last Feast of Belshazzar, My Beloved, Fire-Caught-->
+		<!--The Last Feast of Belshazzar, My Beloved, Fire-Caught, Song for a Suicide-->
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-poems-published-in-the-crisis-1921-1926</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
