@@ -60,18 +60,18 @@
 		<!--1923-05-->
 		<dc:source>https://catalog.hathitrust.org/Record/008956003</dc:source>
 		<!--Messenger-->
-		<!--1924-03, 1924-05-->
+		<!--1924-03, 1924-05, 1925-02-->
 		<dc:source>https://catalog.hathitrust.org/Record/006784879</dc:source>
 		<!--Question, The New Moon, To a Dead Friend, My Loves, Mother to Son-->
 		<!--Justice, Monotony, Dreams, Shadows-->
 		<dc:source>https://poets.org/poet/langston-hughes</dc:source>
 		<!--Grant Park, Gods, Prayer for a Winter Night, Subway Face-->
+		<!--A Song to a Negro Wash-Woman, The Poppy Flower, Johannesburg Mines-->
+		<!--To Certain Intellectuals, Steel Mills-->
 		<dc:source>https://www.poetrynook.com/poet/langston-hughes</dc:source>
 		<!--The Last Feast of Belshazzar, My Beloved, Fire-Caught, Song for a Suicide-->
 		<!--Fascination, Youth-->
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-poems-published-in-the-crisis-1921-1926</dc:source>
-		<!--Song for a Negro Wash-Woman, The Poppy Flower-->
-		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/the-crisis</dc:source>
 		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
