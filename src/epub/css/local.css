@@ -22,6 +22,33 @@
 }
 /* End bridgeheads */
 
+/* Begin epigraphs */
+[epub|type~="epigraph"]{
+	font-style: italic;
+	hyphens: none;
+	-epub-hyphens: none;
+}
+
+[epub|type~="epigraph"] em,
+[epub|type~="epigraph"] i{
+	font-style: normal;
+}
+
+[epub|type~="epigraph"] cite{
+	font-style: normal;
+	font-variant: small-caps;
+	margin-top: 1em;
+}
+
+[epub|type~="epigraph"] cite i{
+	font-style: italic;
+}
+
+[epub|type~="z3998:poem"] [epub|type~="epigraph"] p{
+	text-align: center;
+}
+/* End epigraphs */
+
 /* Begin poetry */
 [epub|type~="z3998:hymn"] hgroup p,
 [epub|type~="z3998:poem"] hgroup p,
