@@ -109,3 +109,7 @@ p span.i6{
 .line-break span:last-child{
 	vertical-align: -100%;
 }
+
+#to-midnight-nan-at-leroys p:nth-of-type(2n){
+	font-style: italic;
+}
