@@ -106,6 +106,12 @@ p span.i6{
 }
 /* End poetry */
 
+[epub|type~="z3998:song"] div header p{
+	font-variant: small-caps;
+	margin: 1em;
+	text-align: center;
+}
+
 .line-break span:last-child{
 	vertical-align: -100%;
 }
