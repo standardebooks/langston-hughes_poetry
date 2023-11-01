@@ -119,3 +119,8 @@ p span.i6{
 #to-midnight-nan-at-leroys p:nth-of-type(2n){
 	font-style: italic;
 }
+
+#the-cat-and-the-saxophone b{
+	font-variant: normal;
+	text-transform: uppercase;
+}
