@@ -120,7 +120,8 @@ p span.i6{
 	font-style: italic;
 }
 
-#the-cat-and-the-saxophone b{
+#the-cat-and-the-saxophone b,
+#harlem-night-club strong{
 	font-variant: normal;
 	text-transform: uppercase;
 }
