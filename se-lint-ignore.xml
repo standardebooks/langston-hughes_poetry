@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="poetry.xhtml">
+		<ignore>
+			<code>s-023</code>
+			<reason>“an’” is a colloquial form of “and” so it shouldn’t be capitalized in titles.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
