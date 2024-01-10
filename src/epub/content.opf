@@ -34,8 +34,8 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of poems by Langston Hughes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			<p><a href="https://standardebooks.org/ebooks/langston-hughes">Langston Hughes</a> was a leading poet in the Harlem Renaissance and a pioneer in the form of jazz poetry. While working as a hotel busboy in Washington, D.C. in the early 1920s, he was “discovered” by fellow poet Vachel Lindsay, who helped publicize his work. He published his first poetry collection in 1926 with <i>The Weary Blues</i>, which opens with one of his best-known poems, “The Negro Speaks of Rivers.” Themes he explores in his poetry include the lives of the Black working class, jazz and blues music, and race consciousness.</p>
-			<p>This Standard Ebooks edition compiles all of the publicly-accessible poems by Langston Hughes known to be in the public domain. This compilation represents only approximately the first decade of Hughes’s work, since most of his literary career lies outside the public domain era.</p>
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/langston-hughes"&gt;Langston Hughes&lt;/a&gt; was a leading poet in the Harlem Renaissance and a pioneer in the form of jazz poetry. While working as a hotel busboy in Washington, D.C. in the early 1920s, he was “discovered” by fellow poet Vachel Lindsay, who helped publicize his work. He published his first poetry collection in 1926 with &lt;i&gt;The Weary Blues&lt;/i&gt;, which opens with one of his best-known poems, “The Negro Speaks of Rivers.” Themes he explores in his poetry include the lives of the Black working class, jazz and blues music, and race consciousness.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition compiles all of the publicly-accessible poems by Langston Hughes known to be in the public domain. This compilation represents only approximately the first decade of Hughes’s work, since most of his literary career lies outside the public domain era.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!--Begin collections-->
