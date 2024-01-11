@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/langston-hughes/poetry</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-01-11T22:18:02Z</dc:date>
+		<meta property="dcterms:modified">2024-01-11T22:18:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -34,8 +34,8 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of poems by Langston Hughes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/langston-hughes"&gt;Langston Hughes&lt;/a&gt; was a leading poet in the Harlem Renaissance and a pioneer in the form of jazz poetry. While working as a hotel busboy in Washington, D.C. in the early 1920s, he was “discovered” by fellow poet Vachel Lindsay, who helped publicize his work. He published his first poetry collection in 1926 with &lt;i&gt;The Weary Blues&lt;/i&gt;, which opens with one of his best-known poems, “The Negro Speaks of Rivers.” Themes he explores in his poetry include the lives of the Black working class, jazz and blues music, and race consciousness.&lt;/p&gt;
-			&lt;p&gt;This Standard Ebooks edition compiles all of the publicly-accessible poems by Langston Hughes known to be in the public domain. This compilation represents only approximately the first decade of Hughes’s work, since most of his literary career lies outside the public domain era.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/langston-hughes"&gt;Langston Hughes&lt;/a&gt; was a leading poet in the Harlem Renaissance and a pioneer in the form of jazz poetry. While working as a hotel busboy in Washington, D.C. in the early 1920s, he was “discovered” by fellow poet Vachel Lindsay, who helped publicize his work. In 1926 he published his first poetry collection, &lt;i&gt;The Weary Blues&lt;/i&gt;, which opens with one of his best-known poems, “The Negro Speaks of Rivers.” Themes he explores in his poetry include the lives of the Black working class, jazz and blues music, and race consciousness.&lt;/p&gt;
+			&lt;p&gt;This Standard Ebooks edition compiles all of the publicly-accessible poems by Langston Hughes known to be in the U.S. public domain, which is limited to about the first decade of his work.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!--Begin collections-->
@@ -170,8 +170,8 @@
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-poems-published-in-the-crisis-1921-1926</dc:source>
 		<!--End assorted transcriptions-->
 		<meta property="se:production-notes">The Collected Poems of Langston Hughes (ISBN:978-1-4395-7173-6) was used for bibligraphic research.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">15633</meta>
+		<meta property="se:reading-ease.flesch">83.76</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/langston-hughes_poetry</meta>
 		<dc:creator id="author">Langston Hughes</dc:creator>
 		<meta property="file-as" refines="#author">Hughes, Langston</meta>
@@ -213,6 +213,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
