@@ -170,7 +170,7 @@
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-poems-published-in-the-crisis-1921-1926</dc:source>
 		<!--End assorted transcriptions-->
 		<meta property="se:production-notes">The Collected Poems of Langston Hughes (ISBN:978-1-4395-7173-6) was used for bibligraphic research. One poem, "Freedom Seeker," seems to have been cut off in the original printing. The anthology I was referencing has a restored ending but I am not sure where the restored ending comes from, so I am assuming that the full poem is not in the public domain and omitted it from this collection.</meta>
-		<meta property="se:word-count">15633</meta>
+		<meta property="se:word-count">15630</meta>
 		<meta property="se:reading-ease.flesch">83.86</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/langston-hughes_poetry</meta>
 		<dc:creator id="author">Langston Hughes</dc:creator>
