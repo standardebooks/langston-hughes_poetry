@@ -32,6 +32,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100202</meta>
 		<meta property="se:subject">Poetry</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of poems by Langston Hughes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/langston-hughes"&gt;Langston Hughes&lt;/a&gt; was a leading poet in the Harlem Renaissance and a pioneer in the form of jazz poetry. While working as a hotel busboy in Washington, D.C. in the early 1920s, he was “discovered” by fellow poet Vachel Lindsay, who helped publicize his work. In 1926 he published his first poetry collection, &lt;i&gt;The Weary Blues&lt;/i&gt;, which opens with one of his best-known poems, “The Negro Speaks of Rivers.” Themes he explores in his poetry include the lives of the Black working class, jazz and blues music, and race consciousness.&lt;/p&gt;
