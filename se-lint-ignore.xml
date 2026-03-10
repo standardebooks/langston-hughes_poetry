@@ -2,6 +2,8 @@
 <se-lint-ignore>
 	<file path="poetry.xhtml">
 		<ignore code="s-023">
+			<line>4099</line>
+			<line>4920</line>
 			<reason>“an’” is a colloquial form of “and” so it shouldn’t be capitalized in titles.</reason>
 		</ignore>
 	</file>
