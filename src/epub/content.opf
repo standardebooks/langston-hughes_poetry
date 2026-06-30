@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/langston-hughes/poetry</dc:identifier>
 		<dc:date>2024-01-11T22:18:02Z</dc:date>
 		<meta property="dcterms:modified">2024-01-11T22:18:02Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
+		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<link href="https://standardebooks.org/" refines="#publisher" rel="schema:url"/>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
 		<dc:contributor id="type-designer">The League of Moveable Type</dc:contributor>
 		<meta property="file-as" refines="#type-designer">League of Moveable Type, The</meta>
-		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
+		<link href="https://www.theleagueofmoveabletype.com/" refines="#type-designer" rel="schema:url"/>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
@@ -32,8 +33,8 @@
 		<dc:subject id="subject-1">African Americans -- Poetry</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh2007100202</meta>
-		<meta property="se:subject">Poetry</meta>
-		<meta property="se:is-a-collection">true</meta>
+		<meta property="schema:genre">Poetry</meta>
+		<meta property="schema:additionalType">http://schema.org/Collection</meta>
 		<dc:description id="description">A collection of poems by Langston Hughes.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/langston-hughes"&gt;Langston Hughes&lt;/a&gt; was a leading poet in the Harlem Renaissance and a pioneer in the form of jazz poetry. While working as a hotel busboy in Washington, D.C. in the early 1920s, he was “discovered” by fellow poet Vachel Lindsay, who helped publicize his work. In 1926 he published his first poetry collection, &lt;i&gt;The Weary Blues&lt;/i&gt;, which opens with one of his best-known poems, “The Negro Speaks of Rivers.” Themes he explores in his poetry include the lives of the Black working class, jazz and blues music, and race consciousness.&lt;/p&gt;
@@ -182,43 +183,44 @@
 		<!--Fascination, Youth-->
 		<dc:source>https://scalar.lehigh.edu/african-american-poetry-a-digital-anthology/langston-hughes-poems-published-in-the-crisis-1921-1926</dc:source>
 		<!--End assorted transcriptions-->
-		<meta property="se:production-notes">The Collected Poems of Langston Hughes (ISBN:978-1-4395-7173-6) was used for bibligraphic research. One poem, "Freedom Seeker," seems to have been cut off in the original printing. The anthology I was referencing has a restored ending but I am not sure where the restored ending comes from, so I am assuming that the full poem is not in the public domain and omitted it from this collection.</meta>
-		<meta property="se:word-count">15998</meta>
-		<meta property="se:reading-ease.flesch">83.76</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/langston-hughes_poetry</meta>
+		<meta property="schema:wordCount">15998</meta>
+		<meta property="schema:educationalLevel">83.76</meta>
+		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
+		<link href="https://github.com/standardebooks/langston-hughes_poetry" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Langston Hughes</dc:creator>
 		<meta property="file-as" refines="#author">Hughes, Langston</meta>
-		<meta property="se:name.person.full-name" refines="#author">James Mercer Langston Hughes</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Langston_Hughes</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80014956</meta>
+		<meta property="schema:alternateName" refines="#author">James Mercer Langston Hughes</meta>
+		<link href="https://en.wikipedia.org/wiki/Langston_Hughes" refines="#author" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n80014956.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Aaron Douglas</dc:contributor>
 		<meta property="file-as" refines="#artist">Douglas, Aaron</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Aaron_Douglas_(artist)</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n84165066</meta>
+		<link href="https://en.wikipedia.org/wiki/Aaron_Douglas_(artist)" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n84165066.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">https://en.wikisource.org/</meta>
+		<link href="https://en.wikisource.org/" refines="#transcriber-1" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">The Academy of American Poets</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Academy of American Poets, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">https://poets.org/</meta>
+		<link href="https://poets.org/" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">PoetryNook.com</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">PoetryNook.com</meta>
-		<meta property="se:url.homepage" refines="#transcriber-3">https://www.poetrynook.com/</meta>
+		<link href="https://www.poetrynook.com/" refines="#transcriber-3" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-4">Amardeep Singh</dc:contributor>
 		<meta property="file-as" refines="#transcriber-4">Singh, Amardeep</meta>
 		<meta property="role" refines="#transcriber-4" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-5">The Tar Baby and the Tomahawk</dc:contributor>
 		<meta property="file-as" refines="#transcriber-5">Tar Baby and the Tomahawk, The</meta>
-		<meta property="se:url.homepage" refines="#transcriber-5">http://childlit.unl.edu/</meta>
+		<link href="http://childlit.unl.edu/" refines="#transcriber-5" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-5" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Weijia Cheng</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cheng, Weijia</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://weijiarhymeswith.asia/</meta>
+		<link href="https://weijiarhymeswith.asia/" refines="#producer-1" rel="schema:url"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
@@ -228,7 +230,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
-		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com/</meta>
+		<link href="https://alexcabal.com/" refines="#producer-2" rel="schema:url"/>
 		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
